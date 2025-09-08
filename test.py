@@ -1,6 +1,6 @@
 # main file
 
 def swap(x,y):
-    temporary = y
+    te = y
     y = x
-    x = temporary
+    x = te
