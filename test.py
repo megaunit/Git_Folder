@@ -1,6 +1,6 @@
 # main file
 
 def swap(x,y):
-    teolo = y
+    te = y
     y = x
-    x = teoio
+    x = te
